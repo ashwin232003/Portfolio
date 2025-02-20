@@ -1,6 +1,6 @@
 # My Personal Website/Portfolio 🌐
 
-[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue?logo=github)](https://infod33p4k.github.io/My_website/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue?logo=github)](https://ashwin232003.github.io/Portfolio/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A modern, responsive website showcasing my projects, skills, and professional journey. Built with **HTML, CSS, and JavaScript**.
