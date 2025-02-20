@@ -8,7 +8,7 @@ A modern, responsive website showcasing my projects, skills, and professional jo
 ![image](https://github.com/user-attachments/assets/beec2bc8-8984-4e25-8750-d55d1aca3988)
 
 ## Live Demo 🔗
-**[Visit the Website →](https://infod33p4k.github.io/My_website/)**
+**[Visit the Website →](https://ashwin232003.github.io/Portfolio/)**
 
 ---
 
@@ -30,7 +30,7 @@ A modern, responsive website showcasing my projects, skills, and professional jo
 ## Installation (For Local Development) 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/infod33p4k/My_website.git
+   git clone https://ashwin232003.github.io/Portfolio/
 
 ---
 
@@ -42,10 +42,8 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 Connect with Me 📬
 
-  Portfolio: infod33p4k.github.io/My_website
+  Portfolio: ashwin232003.github.io/Portfolio/
 
-  Email: ashwindeepak6@gmail.com
+  Email: ashwin200323@gmail.com
 
   **[LinkedIn](https://www.linkedin.com/in/ashwin2305/)**
-
-  **[Discord](https://discord.gg/s2xTkFNQ)**
