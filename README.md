@@ -30,7 +30,7 @@ A modern, responsive website showcasing my projects, skills, and professional jo
 ## Installation (For Local Development) 💻
 1. Clone the repository:
    ```bash
-   git clone https://ashwin232003.github.io/Portfolio/
+   git clone https://github.com/ashwin232003/Portfolio.git
 
 ---
 
