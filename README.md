@@ -5,7 +5,7 @@
 
 A modern, responsive website showcasing my projects, skills, and professional journey. Built with **HTML, CSS, and JavaScript**.
 
-![image](https://github.com/user-attachments/assets/beec2bc8-8984-4e25-8750-d55d1aca3988)
+![image](./page.png)
 
 ## Live Demo 🔗
 **[Visit the Website →](https://ashwin232003.github.io/Portfolio/)**
